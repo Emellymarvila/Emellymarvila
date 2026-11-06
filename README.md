@@ -8,8 +8,8 @@
 ============================================================ -->
 
 <div><img src="assets/banner-1-topo.png" width="100%" align="top" alt="Olá, eu me chamo Emelly"></div>
-<div><img src="assets/banner-2-esq.png" width="52.4%" align="top" alt=""><a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="assets/banner-2-linkedin.png" width="32.1%" align="top" alt="LinkedIn"></a><img src="assets/banner-2-dir.png" width="15.4%" align="top" alt=""></div>
-<div><img src="assets/banner-3-esq.png" width="52.4%" align="top" alt=""><a href="mailto:seuemail@exemplo.com"><img src="assets/banner-3-email.png" width="32.1%" align="top" alt="E-mail"></a><img src="assets/banner-3-dir.png" width="15.4%" align="top" alt=""></div>
+<div><img src="assets/banner-2-esq.png" width="52.4%" align="top" alt=""><a href="https://www.linkedin.com/in/emelly-marvila/"><img src="assets/banner-2-linkedin.png" width="32.1%" align="top" alt="LinkedIn"></a><img src="assets/banner-2-dir.png" width="15.4%" align="top" alt=""></div>
+<div><img src="assets/banner-3-esq.png" width="52.4%" align="top" alt=""><a href="mailto:emellyflormarvila@gmail.com"><img src="assets/banner-3-email.png" width="32.1%" align="top" alt="E-mail"></a><img src="assets/banner-3-dir.png" width="15.4%" align="top" alt=""></div>
 <div><img src="assets/banner-4-base.png" width="100%" align="top" alt=""></div>
 
 <br>
