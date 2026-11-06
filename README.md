@@ -61,12 +61,9 @@
 <img src="assets/titulo-contribuicoes.png" width="320" alt="Minhas contribuições">
 
 <p align="center">
-<img src="https://ghchart.rshah.org/A2AC78/Emellymarvila" width="100%" alt="Gráfico de contribuições">
-</p>
-
-<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emellymarvila/Emellymarvila/output/github-snake-dark.svg?palette=github-dark" />
-    <img alt="Minhas Contribuições" src="https://raw.githubusercontent.com/Emellymarvila/Emellymarvila/output/github-snake-dark.svg?palette=github-dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emellymarvila/Emellymarvila/output/github-snake-dark.svg?palette=github-dark&color_snake=#39FF14&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emellymarvila/Emellymarvila/output/github-snake.svg" />
+    <img alt="Minhas Contribuições" src="https://raw.githubusercontent.com/Emellymarvila/Emellymarvila/output/github-snake-dark.svg?palette=github-dark&color_snake=#39FF14&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353" />
   </picture>
 </p>
