@@ -61,9 +61,12 @@
 <img src="assets/titulo-contribuicoes.png" width="320" alt="Minhas contribuições">
 
 <p align="center">
-<img src="https://ghchart.rshah.org/A2AC78/SEU-USUARIO" width="100%" alt="Gráfico de contribuições">
+<img src="https://ghchart.rshah.org/A2AC78/Emellymarvila" width="100%" alt="Gráfico de contribuições">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=EFEFEC&title_color=97776A&text_color=7A5A4C&icon_color=A2AC78" alt="Estatísticas do GitHub">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emellymarvila/Emellymarvila/output/github-snake-dark.svg?palette=github-dark" />
+    <img alt="Minhas Contribuições" src="https://raw.githubusercontent.com/Emellymarvila/Emellymarvila/output/github-snake-dark.svg?palette=github-dark" />
+  </picture>
 </p>
